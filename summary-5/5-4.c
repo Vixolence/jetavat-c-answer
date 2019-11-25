@@ -8,7 +8,7 @@ int main (){
     scanf("%d" , &number);
     if (number <= 10) { 
         cost = number * 20;
-        }
+    }
 
     else {
         cost = 200 + ((number - 10) * 10);
