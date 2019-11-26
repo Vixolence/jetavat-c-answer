@@ -31,7 +31,7 @@
     3.3 i*j-- ผลลัพธ์คือ 20 และ j คือ 1
     3.4 i*--j ผลลัพธ์คือ 10 และ j คือ 1
 #### ที่มาของแนวคำตอบ
-- [src/summary-3/3-3.c] (https://github.com/Vixolence/jetavat-c-answer/blob/master/src/summary-3/3-3.c)
+- [src/summary-3/3-3.c](https://github.com/Vixolence/jetavat-c-answer/blob/master/src/summary-3/3-3.c)
     
 ---
 ### 4. ถ้าต้องการเขียนโปรแกรมทำงานกับรูปแบบข้อมูลต่อไปนี้ ควรประกาศชนิดใดเพื่อใช้งาน (ตัวอักษร, ข้อความ, เลขจำนวนเต็ม หรือ เลขจำนวนจริง)
@@ -59,7 +59,7 @@
 
         จะได้ จริง และ เท็จ => เท็จ
 #### ที่มาของแนวคำตอบ
-- [src/summary-3/3-4.c] (https://github.com/Vixolence/jetavat-c-answer/blob/master/src/summary-3/3-4.c)
+- [src/summary-3/3-4.c](https://github.com/Vixolence/jetavat-c-answer/blob/master/src/summary-3/3-4.c)
 ---
 ### 5. จงลำดับความสำคัญของนิพจน์ต่อไปนี้
 
