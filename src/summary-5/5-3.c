@@ -9,7 +9,7 @@ void main() {
         printf("You are young");
     }
 
-    else if (age > 40) {
+    else {
         printf("You are old");
     }
 }
