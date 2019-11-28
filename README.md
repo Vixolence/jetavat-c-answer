@@ -16,3 +16,4 @@ __**ภาษาโปรแกรมที่ใช้**__ : C Programming Lang
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 2 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-2/summary-2.md)
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 3 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-3/summary-3.md)
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 4 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-4/summary-4.md)
+- [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 5 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-4/summary-5.md)
