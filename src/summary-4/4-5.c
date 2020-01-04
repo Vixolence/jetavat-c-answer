@@ -1,14 +1,13 @@
-#include <stdio.h> 
-#include <string.h>
-#include <conio.h>
+#include <stdio.h>
 
 void main() {
-   float Width, Long, Area;
+   int Width, Long; 
+   float Area;
 
    printf("Input Width = ");
-   scanf("%f", &Width);
+   scanf("%d", &Width);
    printf("Input Long = ");
-   scanf("%f", &Long);
+   scanf("%d", &Long);
  
    Area = Width * Long;
 
