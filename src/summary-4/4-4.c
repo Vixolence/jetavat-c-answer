@@ -1,14 +1,13 @@
 #include <stdio.h>
 
 void main() {
-    char str1[4];
-    char str2[255];
+    char num[5];
+    char name[30];
 
     printf("No : ");
-    scanf("%s", &str1);
+    scanf("%s", num);
     printf("Name : ");
-    scanf("%s", &str2);
+    scanf("%s", name);
 
-    printf("%s " " %s \n" ,str1 , str2);
+    printf("%s\t%s \n" ,num , name);
 }
-// Code Complete.
