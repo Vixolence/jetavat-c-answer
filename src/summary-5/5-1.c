@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     int x = 4;
     int y = 0;
     int z = 2;
