@@ -18,6 +18,4 @@ __**ภาษาโปรแกรมที่ใช้**__ : C Programming Lang
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 4 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-4/summary-4.md)
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 5 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-5/summary-5.md)
 - [Source Code โจทย์ปัญหาชวนคิดชุดที่ 6](https://github.com/Vixolence/Jetavat_C-answer/tree/master/src/summary-6)
-- [Source Code โจทย์ปัญหาชวนคิดชุดที่ 7](https://github.com/Vixolence/Jetavat_C-answer/tree/master/src/summary-7)
-- [Source Code โจทย์ปัญหาชวนคิดชุดที่ 8](https://github.com/Vixolence/Jetavat_C-answer/tree/master/src/summary-8)
 
