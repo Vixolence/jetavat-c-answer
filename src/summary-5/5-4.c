@@ -1,17 +1,15 @@
 #include <stdio.h>
 
-int main (){
+int main ()
+{
     int number;
     int cost;
     printf("Enter your number : ");
     scanf("%d" , &number);
-    if (number <= 10) { 
+    if (number <= 10) 
         cost = number * 20;
-    }
-
-    else {
+    else 
         cost = 200 + ((number - 10) * 10);
-    }
     printf("%d", cost);
     getch();
 }
