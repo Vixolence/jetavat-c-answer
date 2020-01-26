@@ -1,14 +1,16 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     int number;
     int count = 1;
 
     printf("Input Number = ");
     scanf("%d", &number);
 
-    while (count <= number) {
-        printf("%d \n" , count);
+    while (count <= number) 
+    {
+        printf("Number = %d \n", count);
         count++;
     }
 }
