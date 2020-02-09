@@ -9,7 +9,5 @@ void main()
     scanf("%d", &number);
 
     for (count = 1; count <= number; count++) 
-    {
         printf("Number = %d \n", count);
-    }
 }
