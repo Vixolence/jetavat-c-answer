@@ -44,7 +44,7 @@
 ฟังก์ชัน Division() ในการหาร
 ```
 ### โดยให้ส่งค่าผลลัพธ์การคำนวณกลับมาแสดงผลที่ฟังก์ชัน `main() ตัวอย่างหน้าจอผลลัพธ์
-![result](E:\Document\Kao\school.work\m.4\computer\jetavat\C\c-learning\pics\calc-func-result.PNG "result")
+![result](https://github.com/Vixolence/Jetavat_C-answer/blob/master/pics/calc-func-result.PNG?raw=true "result")
 
 ##### รหัสแหล่งที่มา
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[รหัสแหล่งที่มา โจทย์ปัญหาชวนคิด ชุดที่ 8 ข้อที่ 5 ](https://github.com/Vixolence/Jetavat_C-answer/blob/master/src/summary-8/8-5.c)
