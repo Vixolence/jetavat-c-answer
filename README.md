@@ -1,5 +1,5 @@
 [![Finish](https://img.shields.io/badge/Finish-false-red.svg)](https://travis-ci.org/rstacruz/REPO) 
-###### ยังไม่เสร็จสมบูรณ์
+###### ยังไม่เสร็จสมบูรณ์ (ยังไม่มีคำอธิบายที่สมบูรณ์)
 
 # แนวคำตอบ รายวิชา หลักการเขียนโปรแกรม 1 (ว30289) โรงเรียนร้อยเอ็ดวิทยาลัย
 *By [Vixolence_.](https://github.com/Vixolence)* 
@@ -17,5 +17,6 @@ __**ภาษาโปรแกรมที่ใช้**__ : C Programming Lang
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 3 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-3/summary-3.md)
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 4 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-4/summary-4.md)
 - [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 5 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-5/summary-5.md)
-- [Source Code โจทย์ปัญหาชวนคิดชุดที่ 6](https://github.com/Vixolence/Jetavat_C-answer/tree/master/src/summary-6)
-
+- [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 6 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-6/summary-6.md)
+- [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 7 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-7/summary-7.md)
+- [แนวคำตอบ โจทย์ปัญหาชวนคิดชุดที่ 8 ](https://github.com/Vixolence/jetavat-c-answer/blob/master/description/summary-8/summary-8.md)
