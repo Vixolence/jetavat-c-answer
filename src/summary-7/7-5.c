@@ -26,7 +26,7 @@ void main()
         {
             for (int select_columns = 0; select_columns < all_rows; select_columns++)
             {
-                printf("%d ", matrix[select_rows][select_columns]*2,);
+                printf("%d ", matrix[select_rows][select_columns]*2);
             }
         }
     }
