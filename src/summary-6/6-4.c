@@ -1,10 +1,12 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     int i = 0;
     int sum = 0;
 
-    while (i < 100) {
+    while (i < 100) 
+    {
         i = i + 5;
         sum = sum + i;
     }
