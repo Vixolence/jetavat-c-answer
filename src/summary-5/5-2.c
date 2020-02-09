@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     int x = 3, y = 10;
     if ((3/x) < y) 
     {
