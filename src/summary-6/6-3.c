@@ -9,9 +9,6 @@ void main()
     scanf("%d", &number);
 
     do 
-    {
-        printf("Number = %d \n", count);
-        count++;
-    }
+        printf("Number = %d \n", count++);
     while (count <= number);
 }
