@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main () {
+void main () 
+{
     if ((10 != 5) && (7 <= 7))
         printf("4.1 T\n");
     else
@@ -15,6 +16,4 @@ void main () {
         printf("4.3 T\n");
     else 
         printf("4.3 F\n");
-    
-
 }
