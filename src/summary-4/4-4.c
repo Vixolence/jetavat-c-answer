@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     char num[5];
     char name[30];
 
