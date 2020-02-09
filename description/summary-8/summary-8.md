@@ -43,7 +43,7 @@
 ฟังก์ชัน Multiply() ในการคูณ
 ฟังก์ชัน Division() ในการหาร
 ```
-### โดยให้ส่งค่าผลลัพธ์การคำนวณกลับมาแสดงผลที่ฟังก์ชัน `main() ตัวอย่างหน้าจอผลลัพธ์
+### โดยให้ส่งค่าผลลัพธ์การคำนวณกลับมาแสดงผลที่ฟังก์ชัน `main()` ตัวอย่างหน้าจอผลลัพธ์
 ![result](https://github.com/Vixolence/Jetavat_C-answer/blob/master/pics/calc-func-result.PNG?raw=true "result")
 
 ##### รหัสแหล่งที่มา
