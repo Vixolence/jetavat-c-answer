@@ -1,6 +1,7 @@
 #include <stdio.h>
 
-void main() {
+void main() 
+{
     double arr1[5][3];
     int arr2[2][3][7];
     char arr3[10][15][5];
