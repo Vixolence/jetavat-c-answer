@@ -1,16 +1,17 @@
 #include <stdio.h>
-void printName(char* name,int count) { 
-    printf("%d. %s\n",count+1,name); 
-    count++; 
-    if (count < 10) 
-        printName(name,count); 
-        
-} 
-int main() { 
-    char name[50];  
-    printf("\nEnter you name :"); 
-    scanf("%s",name); 
-    printName(name,0); 
-    return 0; 
+
+void name_loop_func(char name[])
+
+void main()
+{
+    char name[10];
+    printf("Please type your name : ");
+    scanf("%s",name);
+    name_loop_func(name);
 }
 
+void name_loop_func(char name[])
+{
+    for (int count = 0; count < 10; count++) 
+        printf("%d. %s \n",count,name);
+}
