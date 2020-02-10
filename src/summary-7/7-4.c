@@ -5,7 +5,7 @@ void main()
     char student_name[10][10];
     for (int count = 0; count < 5; count++)
     {
-        printf("Input [%d] student name : ",i)
+        printf("Input [%d] student name : ",i);
         scanf("%s",&student[name]);
         printf("Input [%d] student age : ", i++);
         scanf("%d", &student[count]);
