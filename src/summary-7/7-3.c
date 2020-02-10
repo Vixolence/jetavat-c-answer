@@ -9,12 +9,5 @@ void main()
         scanf("%s", student_name[count]);
         printf("Input [%d] student age : ", i++);
         scanf("%d", &student_age[count]);
-    }
-    
-    
-    /*for (int count = 0; count < 5; count++)
-    { 
-        printf("%d. %s Age = %d \n", count,student_name[count],student_age[count]);
-    }
+    } 
 }
-/*
