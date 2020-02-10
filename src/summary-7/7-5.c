@@ -24,10 +24,9 @@ void main()
         printf("Matrix 2A :\n");
         for (int select_rows = 0; select_rows < all_rows; select_rows++) // แสดง Output ซ้ำ
         {
-            for (int select_columns = 0; select_columns < all_rows; select_columns++)
+            for (int select_columns = 0; select_columns < all_columns; select_columns++)
             {
                 printf("%d ", matrix[select_rows][select_columns]*2);
-                printf("%d \n",matrix[select_rows][++select_columns]*2);
             }
         }
     }
