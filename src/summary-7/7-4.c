@@ -1,7 +1,8 @@
 #include <stdio.h>
 void main()
 {
-    int student_age[5],i = 1, sum = 0;
+    int student_age[5],i = 1; 
+    double sum = 0;
     char student_name[10][10];
     for (int count = 0; count < 5; count++)
     {
