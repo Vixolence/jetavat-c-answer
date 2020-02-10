@@ -8,7 +8,7 @@ void main()
         printf("Input [%d] student name : ",i);
         scanf("%s",&student_name[count]);
         printf("Input [%d] student age : ", i++);
-        scanf("%d", &student_count[count]);
+        scanf("%d", &student_age[count]);
     }
     for (int arr_count = 0; arr_count < 5; arr_count++)
         sum += student_age[arr_count];
