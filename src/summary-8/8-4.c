@@ -1,7 +1,7 @@
 #include <stdio.h>
 
-void name_loop_func(char name[])
-
+void name_loop_func(char name[]);
+int i = 0;
 void main()
 {
     char name[10];
@@ -12,6 +12,6 @@ void main()
 
 void name_loop_func(char name[])
 {
-    for (int count = 0; count < 10; count++) 
-        printf("%d. %s \n",count,name);
+    for (int count = 0; count < 10; count++)
+        printf("%d. %s \n",++i,name);
 }
